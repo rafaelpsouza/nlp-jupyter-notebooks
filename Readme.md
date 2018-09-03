@@ -4,11 +4,16 @@ Learning purpose
 
 ## TODO
 
+### Text Preprocessing
+* [X] nltk tokenization
+* [X] Spacy tokenization
+* [X] Portuguese stemmer
+* [ ] Portuguese lemmatizer
+
+### Feature Extraction
 * [X] Ngrams
 * [X] Bag of words
-* [X] Load from CSV
-* [ ]  Bag of words from Corpus
-* [ ]  nltk portugues stemmer
-* [ ]  Word vector
-* [ ] Word vector + classification
-* [ ] Document Clustering
+* [ ] Bag of words + Tf-idf
+* [ ] Word vector
+
+### Text Classification
