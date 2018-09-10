@@ -7,13 +7,13 @@ Learning purpose
 ### Text Preprocessing
 * [X] nltk tokenization
 * [X] Spacy tokenization
+* [X] Ngrams
 * [X] Portuguese stemmer
 * [ ] Portuguese lemmatizer
 
 ### Feature Extraction
-* [X] Ngrams
 * [X] Bag of words
-* [ ] Bag of words + Tf-idf
+* [X] Bag of words + Tf-idf
 * [ ] Word vector
 
 ### Text Classification
